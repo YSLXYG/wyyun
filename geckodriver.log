@@ -1,0 +1,94 @@
+1670316401882	geckodriver	INFO	Listening on 127.0.0.1:54056
+1670316404921	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54057" "-no-remote" "-profile" "C:\\Users\\BLUEBE~1\\AppData\\Local\\Temp\\rust_mozprofileZWZyW2"
+1670316405287	Marionette	INFO	Marionette enabled
+1670316405292	Marionette	INFO	Listening on port 54062
+WebDriver BiDi listening on ws://127.0.0.1:54057
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\BLUEBE~1\\AppData\\Local\\Temp\\rust_mozprofileZWZyW2\\search.json.mozlz4", (void 0)))
+1670316406358	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54057/devtools/browser/998dc44a-a2ae-47ed-a75c-df57b32a5b01
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 304: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://s3.music.126.net/web/s/core_8ab780e9c47960118fe1920fd242bdc2.js?8ab780e9c47960118fe1920fd242bdc2, line 96: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_8ab780e9c47960118fe1920fd242bdc2.js?8ab780e9c47960118fe1920fd242bdc2, line 96: unreachable code after return statement
+JavaScript warning: https://urswebzj.nosdn.127.net/webzj/fingerprint2.min-1.6.1.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1670316428631	Marionette	INFO	Stopped listening on port 54062
+Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.sys.mjs:325:29
+
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670318270601	geckodriver	INFO	Listening on 127.0.0.1:53429
+1670318273679	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53430" "-no-remote" "-profile" "C:\\Users\\BLUEBE~1\\AppData\\Local\\Temp\\rust_mozprofileiU1bn3"
+1670318274147	Marionette	INFO	Marionette enabled
+1670318274153	Marionette	INFO	Listening on port 53453
+WebDriver BiDi listening on ws://127.0.0.1:53430
+1670318274255	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\BLUEBE~1\\AppData\\Local\\Temp\\rust_mozprofileiU1bn3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53430/devtools/browser/ceffc2b1-126e-4832-b494-29ffeaa3dfa8
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 304: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://s3.music.126.net/web/s/core_8ab780e9c47960118fe1920fd242bdc2.js?8ab780e9c47960118fe1920fd242bdc2, line 96: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_8ab780e9c47960118fe1920fd242bdc2.js?8ab780e9c47960118fe1920fd242bdc2, line 96: unreachable code after return statement
+1670318376280	Marionette	INFO	Stopped listening on port 53453
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "64387" "-no-remote" "-profile" "C:\\Users\\BLUEBE~1\\AppData\\Local\\Temp\\rust_mozprofile047FeU"
+1670318324479	Marionette	INFO	Marionette enabled
+1670318324484	Marionette	INFO	Listening on port 64402
+WebDriver BiDi listening on ws://127.0.0.1:64387
+1670318324710	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\BLUEBE~1\\AppData\\Local\\Temp\\rust_mozprofile047FeU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64387/devtools/browser/fe3ae374-7242-43f6-ab47-3d6c10ecffbf
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 304: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://s3.music.126.net/web/s/core_8ab780e9c47960118fe1920fd242bdc2.js?8ab780e9c47960118fe1920fd242bdc2, line 96: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_8ab780e9c47960118fe1920fd242bdc2.js?8ab780e9c47960118fe1920fd242bdc2, line 96: unreachable code after return statement
+1670318331715	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1670318332720	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript warning: https://urswebzj.nosdn.127.net/webzj/fingerprint2.min-1.6.1.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1670318336136	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1670318380194	Marionette	INFO	Stopped listening on port 64402
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "64547" "-no-remote" "-profile" "C:\\Users\\BLUEBE~1\\AppData\\Local\\Temp\\rust_mozprofileGnFIHE"
+1670318372222	Marionette	INFO	Marionette enabled
+1670318372226	Marionette	INFO	Listening on port 64562
+WebDriver BiDi listening on ws://127.0.0.1:64547
+1670318372436	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\BLUEBE~1\\AppData\\Local\\Temp\\rust_mozprofileGnFIHE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64547/devtools/browser/a69f5bb3-c518-4b86-b956-8528ed1a024b
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 304: NS_ERROR_FAILURE: Should pass a non-null uri
+1670318373777	Marionette	INFO	Stopped listening on port 64562
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670318382612	geckodriver	INFO	Listening on 127.0.0.1:64592
+1670318385679	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64593" "-no-remote" "-profile" "C:\\Users\\BLUEBE~1\\AppData\\Local\\Temp\\rust_mozprofileXDkBXo"
+1670318385971	Marionette	INFO	Marionette enabled
+1670318385975	Marionette	INFO	Listening on port 64600
+WebDriver BiDi listening on ws://127.0.0.1:64593
+1670318386349	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\BLUEBE~1\\AppData\\Local\\Temp\\rust_mozprofileXDkBXo\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64593/devtools/browser/e22faaca-2c00-4636-ae78-ea5749f9d186
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 304: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://s3.music.126.net/web/s/core_8ab780e9c47960118fe1920fd242bdc2.js?8ab780e9c47960118fe1920fd242bdc2, line 96: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_8ab780e9c47960118fe1920fd242bdc2.js?8ab780e9c47960118fe1920fd242bdc2, line 96: unreachable code after return statement
+1670318411173	Marionette	INFO	Stopped listening on port 64600
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "64707" "-no-remote" "-profile" "C:\\Users\\BLUEBE~1\\AppData\\Local\\Temp\\rust_mozprofilesQjZq6"
+1670318411414	Marionette	INFO	Marionette enabled
+1670318411419	Marionette	INFO	Listening on port 64714
+WebDriver BiDi listening on ws://127.0.0.1:64707
+1670318411686	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\BLUEBE~1\\AppData\\Local\\Temp\\rust_mozprofilesQjZq6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64707/devtools/browser/218e9d1b-d76c-437e-8eb3-256be9177360
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 304: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://s3.music.126.net/web/s/core_8ab780e9c47960118fe1920fd242bdc2.js?8ab780e9c47960118fe1920fd242bdc2, line 96: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_8ab780e9c47960118fe1920fd242bdc2.js?8ab780e9c47960118fe1920fd242bdc2, line 96: unreachable code after return statement
+JavaScript warning: https://urswebzj.nosdn.127.net/webzj/fingerprint2.min-1.6.1.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1670328618114	Marionette	INFO	Stopped listening on port 64714
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.

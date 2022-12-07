@@ -1,0 +1,18 @@
+# author:YSL
+# coding=gbk
+
+'''
+@Project £º12-6 
+@File    £ºlast_dir.py
+@IDE     £ºPyCharm 
+@Author  £ºÐ¡Ñý¹Ö
+@Date    £º2022/12/6 14:27 
+'''
+import os
+
+dir=os.path.abspath(os.path.dirname(__file__))
+
+with open(f'{dir}/song_name.txt',encoding='gbk')as f:
+    songs=f.readlines()
+    for song in songs:
+        print(song.strip('\n'))
